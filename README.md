@@ -13,7 +13,9 @@ Live | AMA | Q&A | Training
 - [Antisyphon AntiCast](https://poweredbybhis.com) (Zoom)
 - [Black Hills Information Security Webcast](https://poweredbybhis.com) (Zoom)
 - [Red Siege Wednesday Offensive](https://redsiege.com/wedoff) (Zoom)
+
+
 Podcasts
 ----
 + [Darknet Diaries](https://darknetdiaries.com/)
-+ 
++ [Malicious Life](https://malicious.life/)
